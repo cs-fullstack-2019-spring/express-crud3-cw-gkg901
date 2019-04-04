@@ -1,3 +1,6 @@
+## POINTS: 2.0
+## KEY: Great Job Man
+
 # Express CRUD classwork
 
 Reference here for sample data: https://pokedex.org/#/
